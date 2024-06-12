@@ -1,0 +1,14 @@
+Package: generateheader
+Version: 0.2
+Architecture: all
+Essential: no
+Maintainer: Maycon Santos
+Depends: bash
+Filename: ./generateheader_0.2_all.deb
+Size: 2728
+MD5sum: 0dbd7ba4fbd8a8f1806c97dc6694975f
+SHA1: 8fcb14f1f7439e2bd6630ac36303cc733878ea03
+SHA256: fb9bc658c80e2c0680c0b7a9f0143d98edeca5d5613a7456ff00e4dc403f4725
+Priority: optional
+Description: Gerar o cabeçalho automaticamente
+
